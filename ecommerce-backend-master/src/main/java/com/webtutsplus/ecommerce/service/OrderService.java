@@ -11,7 +11,6 @@ import com.webtutsplus.ecommerce.enums.OrderStatus;
 import com.webtutsplus.ecommerce.exceptions.OrderNotFoundException;
 import com.webtutsplus.ecommerce.model.Order;
 import com.webtutsplus.ecommerce.model.OrderItem;
-import com.webtutsplus.ecommerce.model.User;
 import com.webtutsplus.ecommerce.repository.OrderItemsRepository;
 import com.webtutsplus.ecommerce.repository.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;

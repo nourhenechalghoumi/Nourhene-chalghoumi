@@ -8,7 +8,6 @@ import com.webtutsplus.ecommerce.dto.checkout.StripeResponse;
 import com.webtutsplus.ecommerce.exceptions.AuthenticationFailException;
 import com.webtutsplus.ecommerce.exceptions.OrderNotFoundException;
 import com.webtutsplus.ecommerce.model.Order;
-import com.webtutsplus.ecommerce.model.User;
 import com.webtutsplus.ecommerce.service.AuthenticationService;
 import com.webtutsplus.ecommerce.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;

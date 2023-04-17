@@ -3,8 +3,6 @@ package com.webtutsplus.ecommerce.service;
 
 import com.webtutsplus.ecommerce.config.MessageStrings;
 import com.webtutsplus.ecommerce.exceptions.AuthenticationFailException;
-import com.webtutsplus.ecommerce.model.AuthenticationToken;
-import com.webtutsplus.ecommerce.model.User;
 import com.webtutsplus.ecommerce.repository.TokenRepository;
 import com.webtutsplus.ecommerce.utils.Helper;
 import org.springframework.beans.factory.annotation.Autowired;
